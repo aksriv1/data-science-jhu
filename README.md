@@ -6,7 +6,12 @@ Materials are under development and subject to change.
 
 ## Author
 
-* Vasu Goel
+* **Vasu Goel** (https://github.com/VasuGoel)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VasuGoel/data-science/blob/master/LICENSE) file for details
 
 
 ## Course Contributors
