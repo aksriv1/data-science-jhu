@@ -4,10 +4,21 @@ Repository for the Data Science Specialization, offered by Johns Hopkins Univers
 
 Materials are under development and subject to change.
 
+## Author
+
+* Vasu Goel
 
 
+## Course Contributors
 
-## Acknowledgement
+* Brian Caffo
+* Jeff Leek
+* Roger Peng
+* Nick Carchedi
+* Sean Kross
+
+
+## Acknowledgements
 
 This repository is mandatory as part of specialization curriculum. According to specialization guidelines 'During this course and other courses in the track you will be submitting links to files you publicly place in your Github account as part of your Course Projects.'
 
