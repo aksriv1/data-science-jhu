@@ -1,4 +1,4 @@
-# Data Science
+# Data Science Specialization
 
 Repository for the Data Science Specialization, offered by Johns Hopkins University.
 
@@ -11,7 +11,7 @@ Materials are under development and subject to change.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/VasuGoel/data-science/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VasuGoel/data-science-jhu/blob/master/LICENSE) file for details
 
 
 ## Course Contributors
